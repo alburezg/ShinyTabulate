@@ -1,2 +1,2 @@
 # ShinyTabulate
-Template for tabulating survey data with RStudio's Shiny [under construction...]
+Template for survey data input with RStudio's Shiny [under construction...]
