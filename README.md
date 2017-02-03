@@ -1,2 +1,2 @@
 # ShinyTabulate
-Template for tabulating genealogical data with an RStudio's Shiny app
+Template for tabulating genealogical data with RStudio's Shiny [under construction...]
